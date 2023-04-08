@@ -1,3 +1,0 @@
-ID,First_Name,Last_Name,Gender
-201,x,y,M
-202,w,z,F
